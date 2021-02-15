@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=2qk/beam&color=grey" alt="views" width="" height="">
+<img src="https://komarev.com/ghpvc/?username=2qk&color=grey" alt="views" width="" height="">
 </p>
 <p align="center">
 Beam is an active updation fork of l-ust/beamed that im updatimg and making the original tool was made by a good friend lust.

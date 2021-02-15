@@ -1,4 +1,4 @@
-Beam is an active updation fork of l-ust/beamed
+Beam is an active updation fork of l-ust/beamed that im updatimg and making the original tool was made by a good friend lust.
 
 down below is beamed description
 

@@ -1,6 +1,18 @@
+<p align="center">  
+  <img src="https://i.pinimg.com/originals/ce/88/36/ce88360f298f896ebec80e4e1bdd9f28.jpg" alt="2...q...K">
+</p>
+<p align="center">
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=2qk/beam&color=grey" alt="views" width="" height="">
+</p>
+<p align="center">
 Beam is an active updation fork of l-ust/beamed that im updatimg and making the original tool was made by a good friend lust.
+<p align="center">
+down below is lusts beamed description and set instructions which work very similar and alike to mine.
 
-down below is beamed description
+
+
+
 
 
 ## "beamed": tokensteal, browsersteal, & more:

@@ -55,9 +55,9 @@ if you need any help with setup, etc, add my Discord or join my Discord server l
 
 1. [Python](https://python.org) installed to "PATH"
 2. IDE: Visual Studio Code, Sublime Text, Atom, etc.
-3. Imgur **API** Key (![access here](https://imgur.com/signin?redirect=https%3A%2F%2Fapi.imgur.com%2Foauth2%2Faddclient))
+3. Imgur **API** Key (![Click Here](https://api.imgur.com))
 4. Discord Webhook
-5. Geo Ipify API Key 
+5. Geo Ipify API Key (![Click Here](https://geo.ipify.com))
 
 ### performance:
 

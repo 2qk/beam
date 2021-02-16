@@ -6,10 +6,10 @@
 <img src="https://komarev.com/ghpvc/?username=2qk&color=grey" alt="views" width="" height="">
 </p>
 <p align="center">
-Beam is an active updation fork of l-ust/beamed that im updatimg and making the original tool was made by a good friend lust.
+Beam is an active updation fork of l-ust/beamed that im updating and making for a couple, the original tool was made by a good friend lust.
 <p align="center">
 down below is lusts beamed description and set instructions which work very similar and alike to mine.
-
+<p align="">
 
 
 
@@ -22,8 +22,11 @@ with only 293 lines of code, i've developed a lightweight & efficient stealer in
 if you end up using this; pass a star/follow:
 
 * Discord Token
-* Chrome Passwords
-* Chrome/Firefox Cookies
+* Chrome/Firefox/Brave/Edge Passwords
+* Geo IP Data
+* Screenshots
+* Game And Bank/Wallet Tokens!/
+* Chrome/Firefox/Brave/Edge Cookies
 * IP Address
 
 all data is extracted, formatted, and sent to your Discord webhook of choice: silently & quickly.
@@ -34,7 +37,7 @@ currently, the password functionality is set to **only** Chrome; however, if you
 
 the code's pretty easy to read, and i've added comments for majority of each function : providing easy-to-edit code in the event you'd like to better the code, and contribute to this project.
 
-| "beamed" | 
+| "beamed, Beam Tool By me" | 
 | ------------- | 
 | ![result](https://cdn.discordapp.com/attachments/788199797747744789/806945350644138014/unknown.png) |
 

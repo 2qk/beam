@@ -6,9 +6,11 @@
 <img src="https://komarev.com/ghpvc/?username=2qk&color=grey" alt="views" width="" height="">
 </p>
 <p align="center">
-Beam is an active updation fork of l-ust/beamed that im updating and making for a couple, the original tool was made by a good friend lust.
+Beam or "Beamed" is an active updation fork of l-ust/beamed that im updating and making for a couple, the original tool was made by a good friend lust.
 <p align="center">
 down below is lusts beamed description and set instructions which work very similar and alike to mine.
+<p align="center">
+I am currently making a gui and a exe installer.
 <p align="">
 
 
